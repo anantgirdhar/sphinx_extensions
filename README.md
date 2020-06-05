@@ -7,3 +7,5 @@ all of them are developed by me.
 
 Use this to add figure numbers.
 
+This extension was obtained from
+https://bitbucket.org/arjones6/sphinx-numfig/src/default/
